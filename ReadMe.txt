@@ -1,0 +1,1 @@
+Tutorial link : http://www.saaraan.com/2012/04/ajax-add-delete-sql-records-jquery-php
